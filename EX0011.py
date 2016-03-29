@@ -2,7 +2,6 @@
 # Author : puorc
 
 tmp = ''
-filtered_words = []
 with open('filtered_words.txt', 'r') as file:
     for line in file:
         tmp += line
