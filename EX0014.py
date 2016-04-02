@@ -1,4 +1,8 @@
 # -*- coding: utf-8 -*-
+
+# Project : show me the code
+# Author : puorc
+# openpyxl lib is used.
 from openpyxl import Workbook
 from string import maketrans
 from os import listdir
